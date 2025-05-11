@@ -1,0 +1,9 @@
+{
+  "Constants":{
+    "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0)",
+    "SUPPORTED_EXTENSIONS": [".mp4", ".m3u8"],
+    "DEFAULT_OUTPUT_PATH": "Downloads/"
+  },
+  "timeout": 15,
+  "retry_count": 3
+}

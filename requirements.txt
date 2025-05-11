@@ -1,0 +1,6 @@
+requests
+playwright
+selenium
+tqdm
+python-slugify
+argparse
